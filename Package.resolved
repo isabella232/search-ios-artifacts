@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MapboxCommon",
+        "repositoryURL": "git@github.com:mapbox/mapbox-common-ios.git",
+        "state": {
+          "branch": null,
+          "revision": "2da8e739a6b485c039d8360c2b4799d51cdd5c22",
+          "version": "9.1.1"
+        }
+      },
+      {
+        "package": "MapboxMobileEvents",
+        "repositoryURL": "https://github.com/mapbox/mapbox-events-ios",
+        "state": {
+          "branch": "odnairy/dynamic_spm",
+          "revision": "d0c8c845970b2827afa0fbceefd2c3e5f9bc8627",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
